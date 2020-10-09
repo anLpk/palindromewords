@@ -1,1 +1,1 @@
-# palindromewords
+# palindromewords exercise with ruby
